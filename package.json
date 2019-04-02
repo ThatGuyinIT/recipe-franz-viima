@@ -1,0 +1,19 @@
+{
+  "id": "viima",
+  "name": "Viima",
+  "version": "1.0.0",
+  "description": "Viima",
+  "main": "index.js",
+  "author": "ThatGuyInIT@Github",
+  "license": "MIT",
+  "repository": "https://github.com/ThatGuyinIT/recipe-franz-viima",
+  "config": {	
+    "serviceURL": "https://app.viima.com/{teamId}/",
+    "hasNotificationSound": false,
+    "hasDirectMessages": false,
+    "hasIndirectMessages": false,
+    "hasTeamId": true,
+    "urlInputSuffix": "https://app.viima.com/<team>/"
+
+  }
+}
